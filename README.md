@@ -89,16 +89,16 @@ Regras baseadas em regex:
 ## 📷 Demonstração
 
 ### Tela Principal
-![Tela Principal](imagens/imagem.png)
+![Tela Principal](imagens/imagem1.png)
 
 ### Upload de Arquivos
-![Upload](imagens/imagem1.png)
+![Upload](imagens/imagem2.png)
 
 ### Dashboard
-![Dashboard](imagens/imagem2.png)
+![Dashboard](imagens/imagem3.png)
 
 ### Auditoria
-![Auditoria](imagens/imagm3.png)
+![Auditoria](imagens/imagm4.png)
 
 ---
 
