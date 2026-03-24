@@ -98,7 +98,7 @@ Regras baseadas em regex:
 ![Dashboard](imagens/imagem3.png)
 
 ### Auditoria
-![Auditoria](imagens/imagm.png)
+![Auditoria](imagens/imagem.png)
 
 ---
 
